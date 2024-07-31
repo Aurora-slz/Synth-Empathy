@@ -1,6 +1,6 @@
 # Synth-Empathy: Towards High-Quality Synthetic Empathy Data
 
-
+![method](fig/method.png)
 
 
 Generated data is saved on `/generated_data/selected_data_and_ED_training.json`
