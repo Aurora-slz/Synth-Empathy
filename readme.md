@@ -3,7 +3,7 @@
 ![method](fig/method.png)
 
 
-Generated data is saved on `/generated_data/selected_data_and_ED_training.json`
+Generated data is saved on `/select_data/selected_data_and_ED_training.json`
 
 ## Data Generation
 Input data structure:
