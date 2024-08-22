@@ -87,3 +87,16 @@ python kcentergreedy.py
 ```shell
 python data_evaluation.py
 ```
+
+# Cite Paper
+```
+@misc{liang2024synthempathyhighqualitysyntheticempathy,
+      title={Synth-Empathy: Towards High-Quality Synthetic Empathy Data}, 
+      author={Hao Liang and Linzhuang Sun and Jingxuan Wei and Xijie Huang and Linkun Sun and Bihui Yu and Conghui He and Wentao Zhang},
+      year={2024},
+      eprint={2407.21669},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2407.21669}, 
+}
+```
