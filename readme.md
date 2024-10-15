@@ -1,4 +1,5 @@
 # Synth-Empathy: Towards High-Quality Synthetic Empathy Data
+> *Paper: [Synth-Empathy: Towards High-Quality Synthetic Empathy Data](https://arxiv.org/abs/2407.21669)*
 
 ![method](fig/method.png)
 ## Demo Gradio
