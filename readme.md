@@ -1,8 +1,9 @@
 # Synth-Empathy: Towards High-Quality Synthetic Empathy Data
 
-
 ![method](fig/method.png)
-
+## Demo Gradio
+![Gradio Case](https://github.com/user-attachments/assets/13476119-c349-43f3-a7d8-b70609e8c862)
+> Our empathetic llm will be released as soon as the paper is accapeted.
 
 Generated data is saved on `/selected_data/selected_data_and_ED_training.json`
 
